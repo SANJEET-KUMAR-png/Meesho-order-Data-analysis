@@ -3,7 +3,7 @@ Meesho is a popular name among fashion enthusiasts, by fashion enthusiasts we me
 EDA revealed most orders were delivered successfully, showing strong operational efficiency. Few cancellations or returns indicate good customer satisfaction. High-value sales clustered in select states and products. Insights highlight key demand regions, product trends, and opportunities to reduce returns and boost growth.
 Source of data: https://www.kaggle.com/datasets/sahilr05/meesho-orders  
 
-The dataset was analysed comprensively in pyhton language and following insights were investigated.
+The dataset was analysed comprensively in pyhton language and following insights were investigated.  
 ❓ What patterns or anomalies can visualizations reveal about customer or sales behavior?  
 ❓ What does the dataset contain, and what period or scope does it cover?  
 ❓ Are there any missing values that could affect analysis accuracy?  
