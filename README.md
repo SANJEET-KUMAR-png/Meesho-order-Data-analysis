@@ -1,5 +1,5 @@
 # Meesho-order-Data-analysis
-
+Meesho is a popular name among fashion enthusiasts, by fashion enthusiasts we mean quite everyone. Everyone wants to make a style statement and everyone wants to stand out. In this sort of environment, Meesho is a perfect destination for these people. It is a place that caters to a lot of demands in a single,cost eefective and simple setting. A single stop for all things fashion.
 EDA revealed most orders were delivered successfully, showing strong operational efficiency. Few cancellations or returns indicate good customer satisfaction. High-value sales clustered in select states and products. Insights highlight key demand regions, product trends, and opportunities to reduce returns and boost growth.
 Source of data: https://www.kaggle.com/datasets/sahilr05/meesho-orders  
 
